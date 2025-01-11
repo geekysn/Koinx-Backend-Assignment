@@ -31,6 +31,6 @@ cron.schedule("0 */2 * * *", async ()=>{
     await fetchData();
 })
 
-app.listen(3000, async()=>{
-    console.log("app is listening on port 3000")
+app.listen(PORT, async()=>{
+    console.log(`app is listening on port 3000 ${PORT}`)
 })
