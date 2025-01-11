@@ -1,0 +1,1 @@
+{"root":["./src/index.ts","./src/config/config.ts","./src/models/crypto.ts","./src/routes/deviationrouter.ts","./src/routes/statsrouter.ts","./src/services/getprice.ts","./src/validations/cryptoschema.ts"],"version":"5.7.3"}
