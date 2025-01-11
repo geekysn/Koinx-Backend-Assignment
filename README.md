@@ -92,10 +92,6 @@ The API uses the following error codes:
 - **404 Not Found**: Data not found for the specified coin
 - **500 Internal Server Error**: Server error
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
-
 ## Acknowledgments
 
 - [CoinGecko API](https://www.coingecko.com/en/api/documentation) for providing cryptocurrency data
